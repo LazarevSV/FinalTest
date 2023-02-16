@@ -37,3 +37,4 @@ __Примеры:__
 
 9. В конечном итоге на экран выводится текст "Strings with length less than or equal to 3:" и результат выполнения метода ShowArray для массива newArray.
 
+![блок схема решения](https://github.com/LazarevSV/FinalTest/blob/main/imj/Drow_io_алгоритм.jpg)
